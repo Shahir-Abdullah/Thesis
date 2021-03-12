@@ -1,0 +1,7 @@
+#!/bin/sh
+
+gcc -o mul mul.c
+
+
+
+
